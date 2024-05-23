@@ -1,1 +1,2 @@
 # Icc-Test-Series-Project
+The ICC Test Series project delves into the intricate world of Internation Cricket, Focusing on the structure ,dynamics and key moments of Test matches organised by the Internation Cricket Council.The Project examines historic data ,team performance and Strategic elements that defines the essence of Test Cricket.Through detailed analysis and insights , it aims to provide comprehensive understanding of the series, highlighlighting its impact on the sports and global following.
